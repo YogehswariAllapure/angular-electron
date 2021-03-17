@@ -54,7 +54,7 @@
     "typescript": "~3.5.3"
   },
   "build": {
-    "appId": "com.electron13",
+    "appId": "com.electronnew",
     "linux": {
       "target": [
         "deb",
